@@ -56,7 +56,7 @@ export default function App() {
       <nav className="p-6 flex justify-between items-center border-b border-stone-200 dark:border-stone-800 bg-white/70 dark:bg-stone-900/70 backdrop-blur-md sticky top-0 z-[60]">
         <div className="flex items-center gap-2">
           <img
-            src="/motiui.png"
+            src="./motiui.png"
             alt="MotiUI Logo"
             className="w-11 h-11 object-contain hover:scale-110 transition-transform duration-300"
           />
@@ -76,7 +76,7 @@ export default function App() {
           <button onClick={() => setDarkMode(!darkMode)} className="p-2 rounded-full bg-stone-100 dark:bg-stone-800 text-teal-700 dark:text-teal-400 transition-transform hover:scale-110">
             {darkMode ? <Sun size={20} /> : <Moon size={20} />}
           </button>
-          <a href="https://github.com" target="_blank" className="text-stone-600 dark:text-stone-400 hover:text-teal-600"><Github size={24} /></a>
+          <a href="https://github.com/batuhd/motiui" target="_blank" className="text-stone-600 dark:text-stone-400 hover:text-teal-600"><Github size={24} /></a>
         </div>
       </nav>
 
