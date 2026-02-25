@@ -1,5 +1,7 @@
 # MotiUI - Anadolu'nun Dijital Kodları
 
+<img width="1902" height="1034" alt="motiui" src="https://github.com/user-attachments/assets/876a55fb-31ea-4440-b134-e50dd2e61494" />
+
 Anadolu'nun binlerce yıllık geometrik mirasını modern web teknolojileriyle (React, TypeScript, Tailwind CSS v4) buluşturan interaktif bir motif kütüphanesi.
 
 ## 🌟 Özellikler
